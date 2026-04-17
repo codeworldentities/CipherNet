@@ -1,0 +1,40 @@
+<!-- Auto-generated: styles — stylesheet definitions v7823 -->
+<div class="styles-—-stylesheet-definitions-7823">
+  <header class="flex-row">
+    <h2>styles — stylesheet definitions</h2>
+    <nav class="nav-7823">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="wrapper">
+    <div class="panel">
+      <p>Generated component for styles — stylesheet definitions</p>
+      <span class="badge badge-7823">v7823</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.styles-—-stylesheet-definitions-7823 {
+  display: flex;
+  grid-template-columns: 1fr 2fr;
+  gap: 16px;
+  padding: 19px;
+  background: #90a1ce;
+  border-radius: 15px;
+  border: 1px solid #954d8f;
+}
+.styles-—-stylesheet-definitions-7823 .flex-row {
+  color: #a8f187;
+  font-size: 16px;
+  font-weight: 600;
+}
+.badge-7823 {
+  background: #954d8f;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 11px;
+}
+</style>
